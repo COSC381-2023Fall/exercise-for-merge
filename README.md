@@ -24,3 +24,4 @@ This assignment is an exercise for merging. Please do the following merges:
 2. Merge branch2 to main
 3. Merge main to branch1
 4. Merge main to branch2
+branch2
